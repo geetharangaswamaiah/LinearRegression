@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+LinearRegression/_init_.py
+LinearRegression/utilities.py
+LinearRegression.egg-info/PKG-INFO
+LinearRegression.egg-info/SOURCES.txt
+LinearRegression.egg-info/dependency_links.txt
+LinearRegression.egg-info/requires.txt
+LinearRegression.egg-info/top_level.txt
