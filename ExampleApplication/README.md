@@ -11,6 +11,7 @@
 * Output:
 
   python3 model.py 
+  
              --------------------------------------------------
              |                                                |
              |                Linear  Regression              |
